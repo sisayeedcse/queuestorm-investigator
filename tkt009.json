@@ -1,0 +1,16 @@
+{
+  "ticket_id": "TKT-009",
+  "complaint": "My settlement hasn't arrived for yesterday.",
+  "user_type": "merchant",
+  "language": "en",
+  "transaction_history": [
+    {
+      "transaction_id": "TXN-9901",
+      "timestamp": "2026-06-25T14:30:00Z",
+      "type": "settlement",
+      "amount": 50000,
+      "counterparty": "Bank_A",
+      "status": "pending"
+    }
+  ]
+}

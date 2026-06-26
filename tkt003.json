@@ -1,0 +1,15 @@
+{
+  "ticket_id": "TKT-003",
+  "complaint": "My payment of 850 tk to the super shop failed but my balance was deducted.",
+  "language": "en",
+  "transaction_history": [
+    {
+      "transaction_id": "TXN-9301",
+      "timestamp": "2026-06-25T18:45:00Z",
+      "type": "payment",
+      "amount": 850,
+      "counterparty": "SuperShop_Gulshan",
+      "status": "failed"
+    }
+  ]
+}

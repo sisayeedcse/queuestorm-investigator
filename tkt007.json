@@ -1,0 +1,15 @@
+{
+  "ticket_id": "TKT-007",
+  "complaint": "আমি এজেন্টকে ৫০০০ টাকা ক্যাশ দিয়েছি কিন্তু ব্যালেন্সে আসেনি।",
+  "language": "bn",
+  "transaction_history": [
+    {
+      "transaction_id": "TXN-9701",
+      "timestamp": "2026-06-25T14:30:00Z",
+      "type": "cash_in",
+      "amount": 5000,
+      "counterparty": "Agent_X",
+      "status": "pending"
+    }
+  ]
+}

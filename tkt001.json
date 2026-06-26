@@ -1,0 +1,23 @@
+{
+  "ticket_id": "TKT-001",
+  "complaint": "I mistakenly sent 5000 tk to the wrong number. The person isn't responding. Please help.",
+  "language": "en",
+  "transaction_history": [
+    {
+      "transaction_id": "TXN-9101",
+      "timestamp": "2026-06-25T14:30:00Z",
+      "type": "transfer",
+      "amount": 5000,
+      "counterparty": "017XXXXXXXX",
+      "status": "completed"
+    },
+    {
+      "transaction_id": "TXN-9102",
+      "timestamp": "2026-06-24T09:15:00Z",
+      "type": "payment",
+      "amount": 1200,
+      "counterparty": "Merchant_A",
+      "status": "completed"
+    }
+  ]
+}

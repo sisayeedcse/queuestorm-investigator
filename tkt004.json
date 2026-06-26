@@ -1,0 +1,15 @@
+{
+  "ticket_id": "TKT-004",
+  "complaint": "I bought a shirt but changed my mind. I want to cancel and get a refund.",
+  "language": "en",
+  "transaction_history": [
+    {
+      "transaction_id": "TXN-9401",
+      "timestamp": "2026-06-25T19:00:00Z",
+      "type": "payment",
+      "amount": 1200,
+      "counterparty": "Daraz_BD",
+      "status": "completed"
+    }
+  ]
+}

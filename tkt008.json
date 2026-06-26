@@ -1,0 +1,23 @@
+{
+  "ticket_id": "TKT-008",
+  "complaint": "I sent 1000 tk to the wrong number.",
+  "language": "en",
+  "transaction_history": [
+    {
+      "transaction_id": "TXN-A",
+      "timestamp": "2026-06-25T14:30:00Z",
+      "type": "transfer",
+      "amount": 1000,
+      "counterparty": "017XXXXXXXX",
+      "status": "completed"
+    },
+    {
+      "transaction_id": "TXN-B",
+      "timestamp": "2026-06-25T14:35:00Z",
+      "type": "transfer",
+      "amount": 1000,
+      "counterparty": "019XXXXXXXX",
+      "status": "completed"
+    }
+  ]
+}

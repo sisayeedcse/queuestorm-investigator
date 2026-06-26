@@ -1,0 +1,23 @@
+{
+  "ticket_id": "TKT-010",
+  "complaint": "I was charged twice for my bill.",
+  "language": "en",
+  "transaction_history": [
+    {
+      "transaction_id": "TXN-10001",
+      "timestamp": "2026-06-25T14:30:00Z",
+      "type": "payment",
+      "amount": 850,
+      "counterparty": "Biller",
+      "status": "completed"
+    },
+    {
+      "transaction_id": "TXN-10002",
+      "timestamp": "2026-06-25T14:30:12Z",
+      "type": "payment",
+      "amount": 850,
+      "counterparty": "Biller",
+      "status": "completed"
+    }
+  ]
+}

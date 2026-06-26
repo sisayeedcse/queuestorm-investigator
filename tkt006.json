@@ -1,0 +1,15 @@
+{
+  "ticket_id": "TKT-006",
+  "complaint": "Something is wrong with my money.",
+  "language": "en",
+  "transaction_history": [
+    {
+      "transaction_id": "TXN-9601",
+      "timestamp": "2026-06-25T14:30:00Z",
+      "type": "transfer",
+      "amount": 100,
+      "counterparty": "019XXXXXXXX",
+      "status": "completed"
+    }
+  ]
+}

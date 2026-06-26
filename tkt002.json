@@ -1,0 +1,31 @@
+{
+  "ticket_id": "TKT-002",
+  "complaint": "I accidentally sent 1500 tk to this number instead of my brother.",
+  "language": "en",
+  "transaction_history": [
+    {
+      "transaction_id": "TXN-9202",
+      "timestamp": "2026-06-25T14:30:00Z",
+      "type": "transfer",
+      "amount": 1500,
+      "counterparty": "018XXXXXXXX",
+      "status": "completed"
+    },
+    {
+      "transaction_id": "TXN-9203",
+      "timestamp": "2026-06-10T11:15:00Z",
+      "type": "transfer",
+      "amount": 2000,
+      "counterparty": "018XXXXXXXX",
+      "status": "completed"
+    },
+    {
+      "transaction_id": "TXN-9204",
+      "timestamp": "2026-05-28T09:00:00Z",
+      "type": "transfer",
+      "amount": 1000,
+      "counterparty": "018XXXXXXXX",
+      "status": "completed"
+    }
+  ]
+}
